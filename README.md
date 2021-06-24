@@ -1,7 +1,7 @@
 # Larissa Karoline 👋 
 
 * Acadêmica de Ciência e Tecnologia pela Universidade Federal do Maranhão (UFMA) 🖥️
-* Fullsatck Developer 👩‍💻
+* Fullstack Developer 👩‍💻
 
 ## Linguagens / tecnologias de interesse 🖥️
 
