@@ -12,8 +12,9 @@
 
 ## Redes 👩‍
 
-[GitHub] (www.github.com/lkaroline)
-[Linkedin] (www.linkedin.com/in/larissakcarvalho
+* GitHub (https://www.github.com/lkaroline)
+* Linkedin (www.linkedin.com/in/larissakcarvalho)
+* E-mail (larissakcarvalho@outlook.com)
 
 
 <!---
