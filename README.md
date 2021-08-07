@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lkarolinec&label=Profile%20views&color=0e75b6&style=flat" alt="lkarolinec" /> </p>
 
-- 👨‍💻 Fullstack Developer
+- 👨‍💻 Back End Developer | Fullstack Developer 
 
 - 🔭 Repositórios em: [https://github.com/lkarolinec?tab=repositories](https://github.com/lkarolinec?tab=repositories)
 
